@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.ico</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>addpage.png</file>
+        <file>subpage.png</file>
+        <file>tiao.png</file>
+    </qresource>
+</RCC>
